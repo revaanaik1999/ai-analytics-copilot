@@ -4,4 +4,4 @@ __pycache__/
 *.pyc
 .streamlit/
 data/
-screenshots/
+.idea/
