@@ -16,6 +16,27 @@ An AI-powered analytics dashboard built using Streamlit, Pandas, Plotly, and LLM
 - Streamlit dashboard interface
 
 ---
+---
+
+## 📸 Application Screenshots
+
+### Dashboard Overview
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### Analytics & Outlier Detection
+
+![Analytics](screenshots/analytics.png)
+
+---
+
+### AI Generated Insights
+
+![AI Insights](screenshots/ai_insights.png)
+
+---
 
 ## 🛠️ Tech Stack
 
