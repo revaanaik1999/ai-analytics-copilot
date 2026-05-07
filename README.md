@@ -33,7 +33,7 @@ An AI-powered analytics dashboard built using Streamlit, Pandas, Plotly, and LLM
 ---
 ### Dataset Insights
 
-![Analytics](screenshots/dataset insights.png)
+![Analytics](screenshots/dataset%20insights.png)
 
 ---
 
