@@ -31,10 +31,15 @@ An AI-powered analytics dashboard built using Streamlit, Pandas, Plotly, and LLM
 ![Analytics](screenshots/analytics.png)
 
 ---
+### Dataset Insights
+
+![Analytics](screenshots/dataset insights.png)
+
+---
 
 ### AI Generated Insights
 
-![AI Insights](screenshots/AI Generated Insights.png)
+![AI Insights](screenshots/AI%20Generated%20Insights.png)
 
 ---
 
